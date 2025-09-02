@@ -48,6 +48,53 @@
 #
 #
 # IDEAS:
+#   - Once a user has reached the highest research level in military tech, mining, and science, they 
+#   will be able to develope/build this bomb.
+#   This bomb is strong enough to completely destroy a target planet or moon chosen/targeted by the player.
+#       - The core of this bomb is created with the core of a planet.
+#       - In order to create this bomb, a player must choose a planet they currently control to sacrifice.
+#           - Once "sacrificed" a planet and all units currently located on it are destroyed
+#   
+#   Name idea: 
+#       1. Null Star or Void Star                    <- best idea so far **************** GO WITH THIS**********************
+#       Oblivion Device
+#       Void Star
+#       Void Engine
+#       
+#       Void Bloom
+#       Null Bloom
+#       Void Surge
+#       Oblivion Surge
+#       Void Singularity
+#       Null Singularity
+#
+#       Umbral Star
+#
+#
+#
+#
+#       Abyss Engine
+#       Dark Star
+#       Oblivion Star
+#        
+# 
+# 
+#        2. The Void Bomb
+#        3. Oblivion Device
+#        4. Oblivion’s Herald
+#        6. Oblivion Core
+#        7. Fallen Angel/Fallen Angel Device/Dark Angel/Dark Angel Device
+#        
+#        Void Shroud
+#        Other Name Ideas:
+#        Eternity Gate Bomb, 
+#        Omen of the Void Bomb, 
+#        Harbinger of Despair  
+#        Herald of the Abyss
+#        Herald of Silence
+#        Herald of the Void
+#            
+
 #   
 #
 # =============================================================================
