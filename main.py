@@ -57,44 +57,6 @@
 #   
 #   Name idea: 
 #       1. Null Star or Void Star                    <- best idea so far **************** GO WITH THIS**********************
-#       Oblivion Device
-#       Void Star
-#       Void Engine
-#       
-#       Void Bloom
-#       Null Bloom
-#       Void Surge
-#       Oblivion Surge
-#       Void Singularity
-#       Null Singularity
-#
-#       Umbral Star
-#
-#
-#
-#
-#       Abyss Engine
-#       Dark Star
-#       Oblivion Star
-#        
-# 
-# 
-#        2. The Void Bomb
-#        3. Oblivion Device
-#        4. Oblivion’s Herald
-#        6. Oblivion Core
-#        7. Fallen Angel/Fallen Angel Device/Dark Angel/Dark Angel Device
-#        
-#        Void Shroud
-#        Other Name Ideas:
-#        Eternity Gate Bomb, 
-#        Omen of the Void Bomb, 
-#        Harbinger of Despair  
-#        Herald of the Abyss
-#        Herald of Silence
-#        Herald of the Void
-#            
-
 #   
 #
 # =============================================================================
