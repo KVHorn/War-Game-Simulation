@@ -62,10 +62,6 @@
 # =============================================================================
 
 
-
-
-
-
 """Board Game Profiles CLI (SQLite-backed).
 
 A CLI to create/manage player profiles and start new game sessions with
