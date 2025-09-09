@@ -41,8 +41,6 @@ Development/Resource/Energy Output:
 
 
 RULES:
-
-
 Project Seek and Destroy:
 Mission:
 To win, a player must have the most game points at the end of the game. Players receive points by:
@@ -154,4 +152,3 @@ Missions –
 -	Colony Mission – A player can send a colony temple ship to another planet or moon for a chance to set up a colony. After building a colony temple ship, a player must decide which planet or moon they want to build a colony on. A player must then pay the energy cost of sending the colony to the target. Next, the player takes the temple colony ship and places it on the Interplanetary travel map on the planet they are departing from. They then roll the 4-sided dice and move the colony ship that many spaces towards their target. Colony mission movement dice are rolled at the beginning of a players turn along with any other movement dice rolls a player must roll. Once the temple colony lands on the destination, on the interplanetary travel map, a player rolls a 10-sided dice. If the player rolls a 1, the mission to colonize the planet or moon fails, any other number and the mission is successful. The player then picks a card from the territory cards deck of the planet or moon that was just colonized. The territory card picked is the location of the new colony. A player places a new temple building piece on the territory, along with two military units. These military units are free of charge and do not require an energy cost payment.
 -	Scientific research mission – A player can conduct a scientific research robe mission for a chance to get an upgrade of one technology level of their choice. After paying 5-10 energy tokens, a player rolls a 20-sided dice. If the player rolls a 20, they get a free upgrade of any tech they choose.
 -	Negotiation Mission – A player being attack may pay 5 gold to send their politician on a negation mission. A player will roll a 20-sided dice. If they roll a 15 or higher, the attacker cannot attack any of that player’s territories for the remainder of the attacking player’s turn. If the defender rolls lower than 15, their politician dies and is removed from the board.
-
