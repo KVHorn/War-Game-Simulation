@@ -41,3 +41,117 @@ Development/Resource/Energy Output:
 
 
 RULES:
+
+
+Project Seek and Destroy:
+Mission:
+To win, a player must have the most game points at the end of the game. Players receive points by:
+-	destroying military units, farms, mines, temples, space stations, colony temples
+-	defeating his chosen People’s Bane
+-	building a colony temple
+-	leading a successful exploration
+-	holding the most land at the end of the game
+-	conquering territories, the most territories throughout the game, even if those territories are then taken.
+-	Killing enemy military units with a Hero will give two points per unit killed. 
+-	Killing a players Bane rewards a player 25 points. Rewards 50 points if a player kills their Bane with their Hero.
+-	Killing military units with any council member rewards x2 points of killing military unit normally/without a council member.
+Invasions:
+-	A player may only initiate an invasion during their turn. An attacker must specify how many units he is deploying, and what territory he is invading.
+-	An invasion consists of battles in which the attacker and the defender each roll a battle dice.
+-	If an attacker is deploying his Hero, he uses an 8-Sided dice. If he is not deploying his Hero, an attacker rolls a 6-sided dice.
+-	If the territory being invaded has a Hero on it to defend with, the defender rolls a 10-sided dice. If no Hero is present to defend, then the defender rolls an 8-sided dice.
+-	For a battle, each player rolls their battle dice. The higher roll wins.
+-	In the case of a draw, the defender wins for every scenario except when an attacker is deploying a Hero to attack and the defender does not have their Hero defending that territory.
+-	At any point during an invasion, a defender may order a retreat. They are then allowed to remove all the military units currently stationed in the territory being invaded, and place them on an adjacent territory that the defender already controls. If no adjacent territories are controlled by the defender, they may not issue a retreat.
+-	At any point during the attack, the invader may call off the battle.
+
+Broken Arrow:
+-	A defender may carry out a Broken Arrow Call only once during the game.
+-	A Broken Arrow call allows the defender to move every military unit currently station in a territory on the continent to the territory being attacked. They are not required to pay the energy requirements for military unit transportation to do this.
+-	Once the battle has ended, the defender may return the military units to their original stations. They are not required to pay the energy requirements for unit transportation.
+ 
+Missile strike:
+-	At any point during a battle, or before a battle has taken place, an attacker may order a missile strike.
+-	An attacker must specify the target. Cannot target an enemy Hero when there are other military units still present on the target territory. Mines, farms, and other buildings are acceptable targets.
+-	an attacker rolls a missile strike dice corresponding their current level of tracking technology. For level 1 tech, a player rolls a 50-sided dice, level II, a 25-sided dice. A player will the missile strike dice the number of times correlating to the level of combat tech they currently have.
+-	Before an attacker rolls the missile strike dice, the defender must choose a number between 1 and the maximum number on the missile strike dice.
+-	If the attacker rolls the number that was stated by the defender, then the missile strike is successful and the defender must remove one military unit from the defending territory.
+-	The attacker may carry out as many missile strike attempts as they can afford but they must be able to pay for the missile strike regardless of success or failure.
+
+Mobilization:
+-	When moving military units, a player must be able to power the carriers that are used to move their troops (military units). This is will be referred to as the energy cost.
+-	If a player cannot afford the energy cost to move their carriers any further, then their troops are stationed on the territory they are currently inhabiting.
+-	When attacking, a player must move at least the number of units attacking with but may take all military units stationed on the territory that the player was attacking from.
+-	When moving units throughout the map, a player may leave territories empty.
+
+Farming and Mining:
+-	Players get a basic income regardless of whether they have mines.
+-	Players can build mines and farms to produce resources and to support military units.
+-	Players can also build energy farms to generate the energy that will be needed to cover the energy costs of many different actions that can be taken throughout the game.
+-	Farms and mines can only be built and placed in the production slots located in each territory.
+Farms:
+-	Farms support military units. A single farm can support 5-10 military units.
+-	At the beginning of a player’s turn, they must have enough farms to support all of their military units. If they do not, they must remove the units that are not supported by their farms. These units are permanently lost and are not returned once more farms are built.
+-	At the beginning of a players turn, they will take a count of how many farms and how many military units they currently have on the map. If they do not have enough farms to support all of their military they must remove the military units that are not supported by farms. If a player counts and sees that they have a surplus of farms, they can choose to trade the farm surplus to the bank for any resource they choose at a 1:1 rate, for gold at current round selling rate for surplus. A player can also trade their farm surplus to other players for bargained price.
+-	A player can choose to keep their farm surplus. Doing this gives the player a safety net. If at any point in the game a player’s farm gets destroyed, and then they do not have enough farms to support their entire military, they can use farm surplus tokens that act as a farm. A farm surplus token will only support one military unit for one turn. 
+
+Mines:
+A player can build several different mines.
+-	The resources that can be mined are:
+o	Water – part of cost to build farm, IPV cost
+o	Precious metals – Expedition and surveying cost, IPV cost
+o	Deuterium – military unit carrier cost
+o	Plutonium – partial cost of expedition, IPV ship costs
+o	Iron/Steel – partial cost of farm, IPV costs
+o	Titanium – cost of missiles and carriers. Also, partial cost of expeditions, IPV cost
+o	Gold – Used as currency in game.
+-	Each mine has an energy cost that the player must pay at the beginning of their turn before they can collect the production of their mines. If the player cannot power all their mines, they are only allowed to collect the output from the mines that they can keep powered on.
+Research:
+There are different technologies that a player can research to advance their empire and gain an advantage over others in the different military actions, economics, and production.
+Science Technology – by upgrading their science technology, a player will increase the odds of an exploration mission success.
+Energy Technology – By upgrading the energy technology level, a player’s energy farms will produce more energy per turn.
+Production Technology – By upgrading the production technology, farms will support more military units, and mines will produce more resources, all for the same energy cost that was paid before the upgrade in tech level.
+Resource:	Level I Cost	Level II Cost	Level III Cost	Level IV Cost	Level V Cost
+Gold	1	2	4	16	32
+Deuterium	1	2	4	16	32
+Water	1	2	4	16	32
+Titanium	1	2	4	16	32
+
+
+
+
+
+
+
+Military Technology- There are three subsets of researchable military technologies.
+Tracking Technology – By upgrading this tech, a player can use a smaller dice when rolling for missile strikes.
+Mobilization Technology- Upgrading this will decrease the energy cost of mobilizing military units.
+Combat Technology- By far the most expensive researchable technology. When a player upgrades this technology, they can add 1 to their highest roll during all battles for the rest of the game. Does not apply to missile strikes or exploration mission rolls. Cost will work differently for combat tech research, possibly all techs will follow this model.
+Propaganda Technology- Researching this lowers the chances of experiencing a revolution, also get one extra resource for every successful trade that is carried out between players. Each participant in the trade gets an extra resource from the bank when trading with a player with this technology upgraded. Each upgrade adds another resource that the player with this tech upgraded gets, but the number of extra resources that trade partners get remains at 1 regardless of propaganda level of the player they are trading with. Example:  It is Player A’s turn. Player A has propaganda tech II researched. Player A trades one farm surplus token with Player B for one gold token. Because Player A has propaganda tech II, Player A gets to choose 2 extra resources from the bank, player B gets to choose one extra resource token from the bank for trading with a player that has an upgraded propaganda tech level.
+Council 6:
+A player can buy different heads of state, each with a different specialty.
+-	Hero – This is the military leader that inspires his troops and his people. A hero needs to be bought before any invasions are initiated. If a player’s hero is killed in action, that player is restricted from leading any attacks until a new hero is bought.
+-	Architect – Leader in charge of construction. Needed to build farms, mines, and factories.
+-	Master of Resources – Responsible for the farm and mine output. Tech levels have no effect on output if a master of resources is not on the map. Energy tech has no effect without M.O.R.
+-	Politician – Responsible for propaganda both civilly and internationally. Propaganda tech levels have no effect if Politician is not on the map. Lowers the odds of experiencing internal revolt.
+-	Engineer- Responsible for exploration missions, orbital combat, new colony temple building. A player cannot attack in orbit if they do not have an engineer on the map. Science tech has no effect without an engineer.
+-	Stock Broker- Gives a player the ability to buy an extra number of stocks in a resource(s) that they choose.
+
+People’s Bane –
+At the beginning of the game, after all players have deployed their starting troops, player rolls to see who goes first. Players then take turns choosing an opponent’s hero to designate as their People’s Bane.
+
+
+Buildings-
+-	Temple – The heart of a player’s empire. It is the most important asset a player has. If a player has not built a temple on another planet, and they lose their temple, they are eliminated from the game and no longer take turns. They can still collect resources and surplus from their mines, as well as still roll to defend their remaining territories. They can also still trade with other players. To gain territory on a planet that is not already currently inhabited, a player must send a colony temple ship to that planet.
+-	Factory – Gives players the ability to build military unit carriers, space stations, colony temple ships, Launch Pads, Space Ports. It should be noted that space ports and space stations must be built on earth but must still be launched into orbit. Player must pay energy cost to put ship in orbit.
+-	Launch Pad – Building that sends ships and troops into orbit. When traveling from orbit to the surface of a planet, a player can only move troops from their station/port to a territory that contains a Launch Pad. The only time this does not apply is when conducting an expedition/colony mission, in which case a player picks an uninhabited territory at random to land on.
+-	Space Port – A port in orbit that allows a player to place their military units in orbit. When sending ships to different planets, a player must first send their ships to the space port. From their space port, they then send the ships to the target planet. If a player does not have a space port or a space station, then they cannot send ships to other planets/moons. Space stations also act as a space port. It is not necessary to build a space port and a space station around the same planet. Colony temple ships do not need to rendezvous with a space port before being sent to other planets/moons.
+-	Space Station – Needed to conduct research and upgrade any technologies. It also functions as a space port where military units can dock and attack from.
+-	Farms – Produce food supply for military units.
+-	Energy Farms – Produce Energy tokens that players use to pay energy cost for various things.
+-	Mines – Produce raw materials and resources needed to build and research. 
+Missions –
+-	Colony Mission – A player can send a colony temple ship to another planet or moon for a chance to set up a colony. After building a colony temple ship, a player must decide which planet or moon they want to build a colony on. A player must then pay the energy cost of sending the colony to the target. Next, the player takes the temple colony ship and places it on the Interplanetary travel map on the planet they are departing from. They then roll the 4-sided dice and move the colony ship that many spaces towards their target. Colony mission movement dice are rolled at the beginning of a players turn along with any other movement dice rolls a player must roll. Once the temple colony lands on the destination, on the interplanetary travel map, a player rolls a 10-sided dice. If the player rolls a 1, the mission to colonize the planet or moon fails, any other number and the mission is successful. The player then picks a card from the territory cards deck of the planet or moon that was just colonized. The territory card picked is the location of the new colony. A player places a new temple building piece on the territory, along with two military units. These military units are free of charge and do not require an energy cost payment.
+-	Scientific research mission – A player can conduct a scientific research robe mission for a chance to get an upgrade of one technology level of their choice. After paying 5-10 energy tokens, a player rolls a 20-sided dice. If the player rolls a 20, they get a free upgrade of any tech they choose.
+-	Negotiation Mission – A player being attack may pay 5 gold to send their politician on a negation mission. A player will roll a 20-sided dice. If they roll a 15 or higher, the attacker cannot attack any of that player’s territories for the remainder of the attacking player’s turn. If the defender rolls lower than 15, their politician dies and is removed from the board.
+
