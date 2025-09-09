@@ -7,5 +7,24 @@ Competing Players: 2+
 Minimum Total Players Required: 3
 Note: The game cannot be played without a game master.
 
+Game Setup:
+
+Board(s):
+
+Galaxy Map:
+    - A map of the entire galaxy split into a number of sections dependant on the 
+    number of players.
+    - This map should be large enough to show mission movements but shouldnt take 
+    up a huge amount of space.
+
+Planet/Moon Maps:
+    - Planet & Moon maps are randomly selected at time of first encounter/exploration.
+    - Planet Maps are the largest maps/boards in the game.
+    - Moon Maps are at max 0.25x the size of planet maps.
+    - Energy Farm map/diagram - smallest possible map type. 
+        - (Might just be a small circle spinner device)
+
+
+Player Setup:
 
 RULES:
