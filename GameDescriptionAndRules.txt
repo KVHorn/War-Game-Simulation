@@ -26,5 +26,18 @@ Planet/Moon Maps:
 
 
 Player Setup:
+- Player selects a faction.
+- Player given random planet map/board.
+- Player places start amount of government/industrial/military bases and units onto their board in the 
+    territories/contries of their choice. (they are not required to all be placed in the same country)
+ -Game master places enemy units ONLY in territories directly surrounding each players' controlled territories.
+    - Players are not capable of seeing enemy units in other territories until they've developed 
+        certain science/tech tree levels high enough OR have the required buildings.
+
+
+Development/Resource/Energy Output:
+- Players start with a base output level for resources, energy, and military unit creation which they
+    receive at the begginging of their turn.
+
 
 RULES:
