@@ -1,4 +1,5 @@
 GAME TITLE: Seek and Destroy
+Description: War game simulation
 
 Players:
 
